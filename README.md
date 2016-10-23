@@ -4,6 +4,6 @@ The internet today is getting fast and bandwidths are getting larger. This resul
 
 This project is a proof of concept to see if we can utilize the much faster graphics processor to route, process, and rule match incoming traffic in hopes to outpace normal server traffic. This proof of concept will be speed tested on basic terms with simple tools. Monitoring software may be a future integration but is outside the scope of this project.
 
-This project is designed to run on the NVIDIA Jetson TK1 board and utilizes CUDA, OpenGL 4.4, and Tegra-accelerated OpenCV.
+This project is designed to run on the <a href="http://www.nvidia.com/object/jetson-tk1-embedded-dev-kit.html">NVIDIA Jetson TK1</a> board and utilizes <a href="https://developer.nvidia.com/cuda-zone">CUDA</a>, <a href="https://developer.nvidia.com/opengl">OpenGL 4.4</a>, and <a href="http://opencv.org/">Tegra-accelerated OpenCV</a>.
 
 This software will remain free and open source.
